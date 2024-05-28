@@ -1,0 +1,2 @@
+reflex==0.5.1
+reflex-img-comparison-slider
