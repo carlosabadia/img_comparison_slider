@@ -17,9 +17,12 @@ dependencies = ["reflex>=0.4.2"]
 classifiers = ["Development Status :: 4 - Beta"]
 
 [project.urls]
+homepage = "https://github.com/carlosabadia/img_comparison_slider"
+source = "https://github.com/carlosabadia/img_comparison_slider"
 
 [project.optional-dependencies]
 dev = ["build", "twine"]
+
 
 [tool.setuptools.packages.find]
 where = ["custom_components"]
